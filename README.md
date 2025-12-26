@@ -28,6 +28,9 @@ The dataset contains transactional sales data with the following fields:
 - Revenue shows an upward trend, peaking in March
 - Laptop sales generate the highest absolute profit
 
+## Dashboard Preview
+![Dashboard](Sales-Finance-Dashboard.jpg)
+
 ## 🚀 Future Improvements
 - Perform financial analysis using SQL
 - Build an interactive dashboard using Power BI
